@@ -1,0 +1,1 @@
+# awesome-brave-browser
